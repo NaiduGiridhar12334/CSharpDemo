@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleCSharp_RetailerOffers/1.0.0": {
+        "runtime": {
+          "ConsoleCSharp_RetailerOffers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleCSharp_RetailerOffers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

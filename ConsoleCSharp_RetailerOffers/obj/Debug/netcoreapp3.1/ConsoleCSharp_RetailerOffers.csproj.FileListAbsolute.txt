@@ -1,0 +1,22 @@
+C:\Users\giridhar.n\source\repos\ConsoleCSharp_RetailerOffers\ConsoleCSharp_RetailerOffers\obj\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.csprojAssemblyReference.cache
+C:\Users\giridhar.n\source\repos\ConsoleCSharp_RetailerOffers\ConsoleCSharp_RetailerOffers\obj\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.AssemblyInfoInputs.cache
+C:\Users\giridhar.n\source\repos\ConsoleCSharp_RetailerOffers\ConsoleCSharp_RetailerOffers\obj\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.AssemblyInfo.cs
+C:\Users\giridhar.n\source\repos\ConsoleCSharp_RetailerOffers\ConsoleCSharp_RetailerOffers\bin\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.exe
+C:\Users\giridhar.n\source\repos\ConsoleCSharp_RetailerOffers\ConsoleCSharp_RetailerOffers\bin\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.deps.json
+C:\Users\giridhar.n\source\repos\ConsoleCSharp_RetailerOffers\ConsoleCSharp_RetailerOffers\bin\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.runtimeconfig.json
+C:\Users\giridhar.n\source\repos\ConsoleCSharp_RetailerOffers\ConsoleCSharp_RetailerOffers\bin\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.runtimeconfig.dev.json
+C:\Users\giridhar.n\source\repos\ConsoleCSharp_RetailerOffers\ConsoleCSharp_RetailerOffers\bin\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.dll
+C:\Users\giridhar.n\source\repos\ConsoleCSharp_RetailerOffers\ConsoleCSharp_RetailerOffers\bin\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.pdb
+C:\Users\giridhar.n\source\repos\ConsoleCSharp_RetailerOffers\ConsoleCSharp_RetailerOffers\obj\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.dll
+C:\Users\giridhar.n\source\repos\ConsoleCSharp_RetailerOffers\ConsoleCSharp_RetailerOffers\obj\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.pdb
+C:\Giri\Inspire\Main Projects\it\CSharpRewardPoints\ConsoleCSharp_RetailerOffers\bin\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.exe
+C:\Giri\Inspire\Main Projects\it\CSharpRewardPoints\ConsoleCSharp_RetailerOffers\bin\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.deps.json
+C:\Giri\Inspire\Main Projects\it\CSharpRewardPoints\ConsoleCSharp_RetailerOffers\bin\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.runtimeconfig.json
+C:\Giri\Inspire\Main Projects\it\CSharpRewardPoints\ConsoleCSharp_RetailerOffers\bin\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.runtimeconfig.dev.json
+C:\Giri\Inspire\Main Projects\it\CSharpRewardPoints\ConsoleCSharp_RetailerOffers\bin\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.dll
+C:\Giri\Inspire\Main Projects\it\CSharpRewardPoints\ConsoleCSharp_RetailerOffers\bin\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.pdb
+C:\Giri\Inspire\Main Projects\it\CSharpRewardPoints\ConsoleCSharp_RetailerOffers\obj\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.csprojAssemblyReference.cache
+C:\Giri\Inspire\Main Projects\it\CSharpRewardPoints\ConsoleCSharp_RetailerOffers\obj\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.AssemblyInfoInputs.cache
+C:\Giri\Inspire\Main Projects\it\CSharpRewardPoints\ConsoleCSharp_RetailerOffers\obj\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.AssemblyInfo.cs
+C:\Giri\Inspire\Main Projects\it\CSharpRewardPoints\ConsoleCSharp_RetailerOffers\obj\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.dll
+C:\Giri\Inspire\Main Projects\it\CSharpRewardPoints\ConsoleCSharp_RetailerOffers\obj\Debug\netcoreapp3.1\ConsoleCSharp_RetailerOffers.pdb
