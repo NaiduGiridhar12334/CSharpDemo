@@ -47,7 +47,7 @@ namespace ConsoleCSharp_RetailerOffers
                     }
                     else if( grpByMonthTransaction.Sum(x => x.Amount) >50 && grpByMonthTransaction.Sum(x => x.Amount) <= 100 )
                     {
-                        rewards.TotalPoints = (Convert.ToInt32(grpByMonthTransaction.Sum(x => x.Amount)) - 50) * 1;
+                        rewards.TotalPoints = 50;
                     }
                     else
                     {
